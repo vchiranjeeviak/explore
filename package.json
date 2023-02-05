@@ -1,7 +1,11 @@
 {
   "name": "explore",
   "version": "1.0.0",
-  "description": "",
+  "description": "The Explore Project",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vchiranjeeviak/explore.git"
+  },
   "main": "index.js",
   "scripts": {
     "start:backend": "nodemon ./backend/index.ts"
